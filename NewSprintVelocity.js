@@ -3,8 +3,6 @@ tau.mashups
 .addDependency('tau/configurator')
 .addMashup(function(configurator) {
 
-
-	
   	 	 
    require(['//cdn.jsdelivr.net/jqplot/1.0.7/jquery.jqplot.js'], function() {
 		var report = function() {
